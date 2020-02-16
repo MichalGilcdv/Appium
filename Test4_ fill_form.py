@@ -19,6 +19,8 @@ class TestingMobileApp(unittest.TestCase):
         desired_caps['app'] =PATH ('ContactManager.apk')
         desired_caps['appPackage'] = 'com.example.android.contactmanager'
         desired_caps['appActivity'] = 'com.example.android.contactmanager.ContactManager'
+        desired_caps['unicodeKeyboard'] = True
+        desired_caps['resetKeyboard'] = True
 
         self.driver = webdriver.Remote('http://localhost:4723/wd/hub',desired_caps)
 

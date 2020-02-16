@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0caf9f-bf96-4184-9ea4-b5f94649655f" name="Default Changelist" comment="" />
+    <list default="true" id="3c0caf9f-bf96-4184-9ea4-b5f94649655f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5_simple_actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test4_ fill_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test4_ fill_form.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XqQmjmEDtCwBPN9en50a3XZTcs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Test4_ fill_form.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -30,7 +40,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for Test4_ fill_form.TestingMobileApp.test_fill_contact_manager">
+  <component name="RunManager" selected="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_graphics_app">
     <configuration name="Unittests for Test4_ fill_form.TestingMobileApp.test_fill_contact_manager" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="AppiumProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,6 +53,36 @@
       <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;Test4_ fill_form.TestingMobileApp.test_fill_contact_manager&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test5_simple_actions.TestowanieAplikacji.test_graphics_app" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test5_simple_actions.TestowanieAplikacji.test_graphics_app&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test5_simple_actions.TestowanieAplikacji.test_wifi_settings" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test5_simple_actions.TestowanieAplikacji.test_wifi_settings&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -79,9 +119,13 @@
     <list>
       <item itemvalue="Python tests.Unittests in Test4_ fill_form.py" />
       <item itemvalue="Python tests.Unittests for Test4_ fill_form.TestingMobileApp.test_fill_contact_manager" />
+      <item itemvalue="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_wifi_settings" />
+      <item itemvalue="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_graphics_app" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_graphics_app" />
+        <item itemvalue="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_wifi_settings" />
         <item itemvalue="Python tests.Unittests for Test4_ fill_form.TestingMobileApp.test_fill_contact_manager" />
       </list>
     </recent_temporary>
@@ -109,10 +153,10 @@
     <state x="549" y="122" width="642" height="755" key="#Unittests_for_Test3-WIFI_checkbox.TestowanieAplikacji.test_wifi_settings/70.27.1610.1023@70.27.1610.1023" timestamp="1581853657767" />
     <state x="549" y="112" width="642" height="755" key="#Unittests_for_Test3-WIFI_checkbox.TestowanieAplikacji.test_wifi_settings/70.27.1610.918@70.27.1610.918" timestamp="1581847631995" />
     <state x="549" y="112" width="642" height="755" key="#Unittests_for_Test3-WIFI_checkbox.TestowanieAplikacji/70.27.1610.918@70.27.1610.918" timestamp="1581844161720" />
-    <state x="951" y="164" width="642" height="755" key="#Unittests_for_Test4__fill_form.TestingMobileApp.test_fill_contact_manager" timestamp="1581859236383">
+    <state x="951" y="164" width="642" height="755" key="#Unittests_for_Test4__fill_form.TestingMobileApp.test_fill_contact_manager" timestamp="1581860817996">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state x="951" y="164" width="642" height="755" key="#Unittests_for_Test4__fill_form.TestingMobileApp.test_fill_contact_manager/70.27.1610.1023@70.27.1610.1023" timestamp="1581859236383" />
+    <state x="951" y="164" width="642" height="755" key="#Unittests_for_Test4__fill_form.TestingMobileApp.test_fill_contact_manager/70.27.1610.1023@70.27.1610.1023" timestamp="1581860817996" />
     <state x="549" y="107" width="642" height="765" key="#Unittests_in_Test3-WIFI_checkbox.py" timestamp="1581844155929">
       <screen x="70" y="27" width="1610" height="918" />
     </state>
@@ -126,25 +170,25 @@
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
     <state x="921" y="311" width="501" height="491" key="FileChooserDialogImpl/70.27.1610.1023@70.27.1610.1023" timestamp="1581856631278" />
-    <state width="1014" height="231" key="GridCell.Tab.0.bottom" timestamp="1581859239081">
+    <state width="1587" height="231" key="GridCell.Tab.0.bottom" timestamp="1581864477795">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1014" height="231" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1581859239081" />
+    <state width="1587" height="231" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1581864477795" />
     <state width="1587" height="231" key="GridCell.Tab.0.bottom/70.27.1610.918@70.27.1610.918" timestamp="1581847633767" />
-    <state width="1014" height="231" key="GridCell.Tab.0.center" timestamp="1581859239080">
+    <state width="1587" height="231" key="GridCell.Tab.0.center" timestamp="1581864477794">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1014" height="231" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1581859239080" />
+    <state width="1587" height="231" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1581864477794" />
     <state width="1587" height="231" key="GridCell.Tab.0.center/70.27.1610.918@70.27.1610.918" timestamp="1581847633766" />
-    <state width="1014" height="231" key="GridCell.Tab.0.left" timestamp="1581859239079">
+    <state width="1587" height="231" key="GridCell.Tab.0.left" timestamp="1581864477793">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1014" height="231" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1581859239079" />
+    <state width="1587" height="231" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1581864477793" />
     <state width="1587" height="231" key="GridCell.Tab.0.left/70.27.1610.918@70.27.1610.918" timestamp="1581847633766" />
-    <state width="1014" height="231" key="GridCell.Tab.0.right" timestamp="1581859239081">
+    <state width="1587" height="231" key="GridCell.Tab.0.right" timestamp="1581864477794">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1014" height="231" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1581859239081" />
+    <state width="1587" height="231" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1581864477794" />
     <state width="1587" height="231" key="GridCell.Tab.0.right/70.27.1610.918@70.27.1610.918" timestamp="1581847633767" />
     <state width="1587" height="328" key="GridCell.Tab.1.bottom" timestamp="1581851192961">
       <screen x="70" y="27" width="1610" height="1023" />
