@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c0caf9f-bf96-4184-9ea4-b5f94649655f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5_simple_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6_Tap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test4_ fill_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test4_ fill_form.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_graphics_app">
+  <component name="RunManager" selected="Python tests.Unittests for test6_Tap.TestowanieAplikacji.test_actions_settings">
     <configuration name="Unittests for Test4_ fill_form.TestingMobileApp.test_fill_contact_manager" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="AppiumProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +84,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test6_Tap.TestowanieAplikacji.test_actions_settings" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test6_Tap.TestowanieAplikacji.test_actions_settings&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in Test4_ fill_form.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="AppiumProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,9 +134,11 @@
       <item itemvalue="Python tests.Unittests for Test4_ fill_form.TestingMobileApp.test_fill_contact_manager" />
       <item itemvalue="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_wifi_settings" />
       <item itemvalue="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_graphics_app" />
+      <item itemvalue="Python tests.Unittests for test6_Tap.TestowanieAplikacji.test_actions_settings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test6_Tap.TestowanieAplikacji.test_actions_settings" />
         <item itemvalue="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_graphics_app" />
         <item itemvalue="Python tests.Unittests for test5_simple_actions.TestowanieAplikacji.test_wifi_settings" />
         <item itemvalue="Python tests.Unittests for Test4_ fill_form.TestingMobileApp.test_fill_contact_manager" />
@@ -170,25 +185,25 @@
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
     <state x="921" y="311" width="501" height="491" key="FileChooserDialogImpl/70.27.1610.1023@70.27.1610.1023" timestamp="1581856631278" />
-    <state width="1587" height="231" key="GridCell.Tab.0.bottom" timestamp="1581864477795">
+    <state width="1587" height="231" key="GridCell.Tab.0.bottom" timestamp="1581866661961">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="231" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1581864477795" />
+    <state width="1587" height="231" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1581866661961" />
     <state width="1587" height="231" key="GridCell.Tab.0.bottom/70.27.1610.918@70.27.1610.918" timestamp="1581847633767" />
-    <state width="1587" height="231" key="GridCell.Tab.0.center" timestamp="1581864477794">
+    <state width="1587" height="231" key="GridCell.Tab.0.center" timestamp="1581866661958">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="231" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1581864477794" />
+    <state width="1587" height="231" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1581866661958" />
     <state width="1587" height="231" key="GridCell.Tab.0.center/70.27.1610.918@70.27.1610.918" timestamp="1581847633766" />
-    <state width="1587" height="231" key="GridCell.Tab.0.left" timestamp="1581864477793">
+    <state width="1587" height="231" key="GridCell.Tab.0.left" timestamp="1581866661957">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="231" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1581864477793" />
+    <state width="1587" height="231" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1581866661957" />
     <state width="1587" height="231" key="GridCell.Tab.0.left/70.27.1610.918@70.27.1610.918" timestamp="1581847633766" />
-    <state width="1587" height="231" key="GridCell.Tab.0.right" timestamp="1581864477794">
+    <state width="1587" height="231" key="GridCell.Tab.0.right" timestamp="1581866661960">
       <screen x="70" y="27" width="1610" height="1023" />
     </state>
-    <state width="1587" height="231" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1581864477794" />
+    <state width="1587" height="231" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1581866661960" />
     <state width="1587" height="231" key="GridCell.Tab.0.right/70.27.1610.918@70.27.1610.918" timestamp="1581847633767" />
     <state width="1587" height="328" key="GridCell.Tab.1.bottom" timestamp="1581851192961">
       <screen x="70" y="27" width="1610" height="1023" />
